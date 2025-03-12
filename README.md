@@ -1,5 +1,6 @@
 # Rain gauges near River Chess
-Notebook to explore rain gauges around River Chess. 
+Notebook to explore rain gauges around River Chess.  
+If you would like access to the datasets I used for this (about 3 GB total), please email me.
 
 ## View rain gauges on select days
 The amount of rain gauges has decreased across the Chess catchment in most region except over the north-east.  

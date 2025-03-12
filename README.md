@@ -2,7 +2,10 @@
 Notebook to explore rain gauges around River Chess. 
 
 ## View rain gauges on select days
-The amount of daily rain gauges (red circles) is less in the Chess catchment in 1980 than in 2020 in most region except over the north-east.
+The amount of rain gauges has decreased across the Chess catchment in most region except over the north-east.  
+Below rain gauges are represented by:  
+    - Red - when gauge is used in daily data only  
+    - Yellow -when gauge is used in monthly and daily (i.e. data has been aggregated from this gauge)
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_1980.png" width="500">
 
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_2020.png" width="500">

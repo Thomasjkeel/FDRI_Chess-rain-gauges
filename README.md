@@ -14,4 +14,7 @@ Notebook to explore rain gauges around River Chess.
 ### Compare CEH-GEAR vs HadUK-Grid Bias around Chess
 <img src="./figures/chess_ceh_vs_haduk_1980to1990mean.png" width="500">  
 
-<img src="./figures/chess_ceh_vs_haduk_2010to2020mean.png" width="500"> 
+<img src="./figures/chess_ceh_vs_haduk_2010to2020mean.png" width="500">  
+ 
+ **Difference between two decade mean**  
+<img src="./figures/chess_ceh_vs_haduk_decade_mean_diff.png" width="500"> 

@@ -8,6 +8,8 @@ In the below figures, rain gauges are represented by:
 - *Red circles* - when gauge is used in daily data only  
 - *Yellow circles* -when gauge is used in monthly and daily data  
 
+*no monthly only rain gauges were found in this region*  
+
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_1980.png" width="500">
 
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_2020.png" width="500">

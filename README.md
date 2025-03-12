@@ -21,5 +21,5 @@ Next, we examine the differences between the CEH-GEAR and the HadUK-Grid (red me
 <img src="./figures/chess_ceh_vs_haduk_2010to2020mean.png" width="500">  
  
  **Difference between two decade means**  
-Across most of the catchment CEH is bias 
+Across most of the catchment CEH is bias  
 <img src="./figures/chess_ceh_vs_haduk_decade_mean_diff.png" width="500"> 

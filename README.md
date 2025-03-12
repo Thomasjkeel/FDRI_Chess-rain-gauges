@@ -16,7 +16,7 @@ In the below figures, rain gauges are represented by:
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_2020.png" width="500">
 
 ### Compare minimum distance to nearest gauge (decadal means)
-There are were more rain gauges on average across the catchment during the 1980s compared with the 2010s.  
+There were more rain gauges on average across the catchment during the 1980s compared with the 2010s.  
 Below we compare the decadal mean distance to nearest gauge:  
 <img src="./figures/chess_min_dist_1980to1990mean.png" width="500">
 
@@ -30,6 +30,7 @@ Next, we examine the differences between the CEH-GEAR and the HadUK-Grid (red me
 <img src="./figures/chess_ceh_vs_haduk_2010to2020mean.png" width="500">  
  
  **Difference between two decade means**  
-Across most of the catchment the difference between the two datasets (here bias) has increased.  
-One exception is in the south east of the study region.   
+Across most of the catchment the difference between the two datasets (here bias) has increased towards HadUK-Grid bias.  
+One exception is in the south east of the study region (where CEH bias has grown).   
+Potentially, a rain gauge was added towards the south-east that has only been included in the CEH-GEAR?  
 <img src="./figures/chess_ceh_vs_haduk_decade_mean_diff.png" width="500"> 

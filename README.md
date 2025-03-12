@@ -1,7 +1,8 @@
 # Rain gauges near River Chess
 Notebook to explore rain gauges around River Chess. 
 
-## View rain gauges on random days
+## View rain gauges on select days
+The amount of daily rain gauges (red circles) is less in the Chess catchment in 1980 than in 2020 in most region except over the north-east.
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_1980.png" width="500">
 
 <img src="./figures/chess_gauges_and_distance_to_gauge_01_Jan_2020.png" width="500">
